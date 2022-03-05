@@ -8,3 +8,4 @@ doubleSpaceLocation = string.find("  ")
 
 print(doubleSpaceLocation)
 
+

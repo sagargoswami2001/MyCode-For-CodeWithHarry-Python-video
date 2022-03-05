@@ -9,3 +9,4 @@ a = int(a)  # Typecasting String a into int a because string is a no and can be 
 print (type(a)) # Currently it have type int
 print(a+54)
 
+

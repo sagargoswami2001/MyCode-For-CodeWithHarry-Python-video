@@ -18,4 +18,4 @@ print(Dialogue.find("Became")) # Find and Return Location of a string,
 print(Dialogue.find("bagdad")) # Returns -1 if String not found
 
 print(Dialogue.replace("on", "in")) #Replace all Matching Occurences
-print(Dialogue.replace("day", "Time")) 
+print(Dialogue.replace("day", "Time"))  

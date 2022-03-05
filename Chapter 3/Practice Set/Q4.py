@@ -5,7 +5,9 @@ import os
 
 string = "abra  kaDabra"
 
-NewString = string.replace("  ", " ")
+NewString = string.replace("  ", " ") 
+#if there are more then double space then it will not be effective
 
 print(NewString)
+
 

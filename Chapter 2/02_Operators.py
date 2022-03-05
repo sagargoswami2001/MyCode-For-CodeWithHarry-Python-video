@@ -7,8 +7,8 @@ b = 45
 print("a+b =", a+b) #Summation
 print("a-b =", a-b) #Subtraction
 print("a*b =", a*b) #Multiplication
-print("a/b =", a/b) #division
-print("a%b =", a%b) #Modulas
+print("a/b =", a/b) #division Note Division always Results in Floating Point value 
+print("a%b =", a%b) #Modulus
 
 print("\n")
 
@@ -50,5 +50,6 @@ print("The Value Of Bool1 And Bool2 is: ", (Bool1 and Bool2)) #Prints True when 
 print("The Value Of Bool1 Or Bool2 is: ", (Bool1 or Bool2))   #Prints True when Either Bool1 and Bool2 are true
 print("The Value Of Not Bool1 is: ", (not Bool1))   #Print True if Bool 1 is False, Prints False if Bool 1 is true
 print("The Value Of Not Bool2 is: ", (not Bool2))   #Print True if Bool 2 is False, Prints False if Bool 2 is true
+
 
 
