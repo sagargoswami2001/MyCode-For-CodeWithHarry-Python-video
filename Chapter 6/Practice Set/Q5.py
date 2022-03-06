@@ -1,3 +1,4 @@
+#Solution of Practice Set Q5
 import os 
 
 Name_List = ["Prakash", "Kirti", "Sagar"]

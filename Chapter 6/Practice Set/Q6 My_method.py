@@ -1,3 +1,5 @@
+#Solution of Practice Set Q6
+
 import os 
 
 Grade = int(input("Enter Your Grade: "))

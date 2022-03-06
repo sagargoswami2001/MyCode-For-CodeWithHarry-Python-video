@@ -1,3 +1,5 @@
+#Solution of Practice Set Q1
+
 import os 
 
 Num1 = int(input("Enter No.1: "))

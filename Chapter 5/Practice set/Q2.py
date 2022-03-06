@@ -13,7 +13,7 @@ f = int(input("enter no.5:" ))
 g = int(input("enter no.6:" ))
 h = int(input("enter no.7:" ))
 
-set.add(a)#Adding no. in Set one by one
+set.add(a)      #Adding no. in Set one by one
 set.add(b)
 set.add(c)
 set.add(d)

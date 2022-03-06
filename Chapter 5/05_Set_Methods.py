@@ -5,7 +5,7 @@ a = {1,2,3,4,5,5,4,3,2,1}
 
 #### To add elements in Set
 a.add(2) #this statement doesn't do anything as elements can't be repeated, Repeating Value doesn't affect Set 
-a.add(6) #adding Elements in Set one at a time
+a.add(6) #adding Elements in Set one at a time at the front or 0 index
 
 a.add((7,8,9,10)) # Tuple can be added to sets  
 
@@ -36,3 +36,4 @@ print(a)
 
 ####Empties the Set
 print(a.clear())
+

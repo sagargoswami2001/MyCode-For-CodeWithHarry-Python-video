@@ -1,3 +1,5 @@
+#Solution of Practice Set Q2
+
 sub1 = int(input("Enter first subject marks\n"))
 sub2 = int(input("Enter second subject marks\n"))
 sub3 = int(input("Enter third subject marks\n"))

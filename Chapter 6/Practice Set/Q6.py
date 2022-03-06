@@ -1,3 +1,5 @@
+#Solution of Practice Set Q6
+
 marks = int(input("Enter Your Marks\n"))
 
 if marks>=90:
