@@ -72,6 +72,8 @@ Chapter 13 - Practice Set🔲
 
 Project 3 - Library Management System🔲
 
-*I have added a few Additional Comments
+---------------------------END OF (Part 2)/series------------------------------
+
+📝I have added a few Additional Comments
 
 *Some Code contain 2 versions.
