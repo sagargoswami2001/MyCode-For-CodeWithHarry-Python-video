@@ -1,6 +1,6 @@
 # MyCode-For-CodeWithHarry-Python-video
 
-MyPythonCode for CodeWithHarry's 15 hours Python Course on YouTube 
+MyPythonCode for CodeWithHarry's 15 hours Python Course on YouTube
 
 Part 1 Video Link: https://youtu.be/gfDE2a7MKjA
 CHAPTER LIST
@@ -39,9 +39,9 @@ Chapter 8 - Functions & Recursion✅
 
 Chapter 8 - Practice Set✅
 
-Project 1 - Snake, Water, Gun Game🔲
+Project 1 - Snake, Water, Gun Game✅
 
-Chapter 9 - File I/O🔲
+Chapter 9 - File I/O✅
 
 Chapter 9 - Practice Set🔲
 
@@ -71,7 +71,6 @@ Chapter 13 - Practice Set🔲
 
 Project 3 - Library Management System🔲
 
-
-*I have added a few Additional Comments 
+*I have added a few Additional Comments
 
 *Some Code contain 2 versions.

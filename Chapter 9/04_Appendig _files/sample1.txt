@@ -1,0 +1,1 @@
+Whatever, Previous line will be overwritten by this line, Appending this in file, , Appending this in file, Appending this in file, Appending this in file, Appending this in file

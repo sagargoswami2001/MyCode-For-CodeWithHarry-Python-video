@@ -1,0 +1,1 @@
+WhateverWhatever, Previous line will be overwritten by this line
