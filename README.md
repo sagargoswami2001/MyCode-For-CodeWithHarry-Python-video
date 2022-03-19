@@ -74,6 +74,8 @@ Project 3 - Library Management System🔲
 
 ---------------------------END OF (Part 2)/series------------------------------
 
+Other_Codes Folder contains some code that i needed to write, i forgot the raeson...
+
 📝I have added a few Additional Comments
 
 *Some Code contain 2 versions.
