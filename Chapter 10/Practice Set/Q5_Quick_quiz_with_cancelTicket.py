@@ -30,7 +30,7 @@ class Train:
         
     def cancelTicket(self, ticketno):
         self.seatList.append(ticketno)
-        
+        print("Your Ticket has been cancelled.")
     
 intercity = Train("Intercity Ex1", "Rs.500")
 intercity.seatList = [1,2] #Making a class attribute seatlist which can be accessedby self
